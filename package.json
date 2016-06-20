@@ -12,6 +12,7 @@
     "request": "^2.72.0"
   },
   "dependencies": {
-    "body-parser": "^1.15.2"
+    "body-parser": "^1.15.2",
+    "cors": "^2.7.1"
   }
 }
