@@ -1,0 +1,17 @@
+{
+  "name": "ng-basics-todo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ivo von Putzer Reibegg <ivo.putzer@gmail.com>",
+  "license": "ISC",
+  "devDependencies": {
+    "request": "^2.72.0"
+  },
+  "dependencies": {
+    "body-parser": "^1.15.2"
+  }
+}
